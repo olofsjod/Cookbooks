@@ -1,0 +1,19 @@
+#+TITLE: Anaconda installation on Ubuntu 22.04 LTS
+#+DATE: <2023-08-15 tis>
+
+1. Download the anaconda installation script from
+[[https://www.anaconda.com/download/#linux]].
+
+2. Open a terminal and navigate to the installation script with ~cd~.
+
+3. Run the installation script (i.e. ~bash Anaconda3-2023.07-2-Linux-x86_64.sh~)
+
+4. Agree to the license terms.
+
+5. Choose installation path. (Tip: add a dot to the directory name in order to
+   make it hidden, apparently this cannot be changed easily after installation).
+
+6. Say "yes" to initialize anaconda3 by running conda init to modify the shell
+   scripts.
+
+7. Restart terminal.
